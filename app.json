@@ -5,9 +5,9 @@
   "keywords": ["node", "foss", "server", "steemit", "curation", "voting"],
   "addons": ["scheduler:standard", "sendgrid:starter", "heroku-redis:hobby-dev"],
   "env": {
-  	"STEEM_USER": "",
-  	"POSTING_KEY_PRV": "",
-  	"BOT_API_KEY": "",
+  	"jonbee": "",
+  	"5JUugkHtuv1DcaavbAoeuxCraPzKRhmvfgjrwiEPYGJdCsW3qA9": "",
+  	"656646rocky": "",
   	"EMAIL_ADDRESS_TO": "none",
   	"EMAIL_ADDRESS_SENDER": "none",
   	"SENDGRID_API_KEY": "none",
